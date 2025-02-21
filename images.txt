@@ -10,5 +10,6 @@ valkey/valkey:8
 langgenius/dify-api:0.15.3
 langgenius/dify-web:0.15.3
 ubuntu/squid:latest
+redis:7.4.2-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
