@@ -8,4 +8,5 @@
 #docker.elastic.co/kibana/kibana:7.10.0
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-java:openjdk-8u111-jre-alpine
+#java:openjdk-8u111-jre-alpine
+openjdk:8
